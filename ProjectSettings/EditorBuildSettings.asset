@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TextToSpeech.unity
     guid: 8330c19a6ff93504e8c969e6abc1bd06
+  - enabled: 1
+    path: Assets/123.unity
+    guid: 9be7ed9c923c91643b2d9b3785fecdc6
   m_configObjects: {}
