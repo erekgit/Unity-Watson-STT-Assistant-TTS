@@ -1,5 +1,15 @@
 # 3D Chatbot with IBM Watson Speech-To-Text, Assistant, and Text-To-Speech on Unity
 
+Erik Anderson
+
+11/3/2020
+
+updated to unity-sdk-4.8.0.
+
+for the latest SALSA LipSync Suite there is no need to import the OneClicks Base seperately as this is now included by default.
+
+Other updates to come as I recall them.
+
 Scott Hwang
 
 LinkedIn: https://www.linkedin.com/in/snhwang
